@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="Europa: 1610"
+run/main_scene="uid://b8hlqt131i41n"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
-MapData="*res://data/map_data.gd"
+MapLoader="*res://data/scripts/map_loader.gd"
+Day="*res://data/scripts/Day.gd"
+Game="*res://data/scripts/game.gd"
+Army="*res://data/scripts/army.gd"

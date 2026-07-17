@@ -1,0 +1,9 @@
+Q,R,id,name,terrain,owner,claimant,religion,population,development,culture
+2,2,cork,Cork,Plains,Ireland,England,Catholic,2,4,gaelic
+2,1,N_ireland,Northern Ireland,Plains,Ireland,England,Catholic,2,5,gaelic
+3,0,ayr,Ayr,Hills,Scotland,none,Protestant,4,6,anglo-saxon
+4,0,jedburgh,Jedburgh,Hills,Scotland,none,Protestant,3,5,anglo-saxon
+4,1,york,York,Hills,England,none,Protestant,11,8,anglo-saxon
+4,2,nottingham,Nottingham,Plains,England,none,Protestant,4,6,anglo-saxon
+3,3,bristol,Bristol,Plains,England,none,Protestant,12,9,anglo-saxon
+4,3,london,London,Plains,England,none,Protestant,200,10,anglo-saxon

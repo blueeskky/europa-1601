@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://e7q4tlvoax7a"
+
+[deps]
+
+files=["res://data/resources/map_data.R.translation", "res://data/resources/map_data.id.translation", "res://data/resources/map_data.name.translation", "res://data/resources/map_data.terrain.translation", "res://data/resources/map_data.owner.translation", "res://data/resources/map_data.claimant.translation", "res://data/resources/map_data.religion.translation", "res://data/resources/map_data.population.translation", "res://data/resources/map_data.development.translation", "res://data/resources/map_data.culture.translation"]
+
+source_file="res://data/resources/map_data.csv"
+dest_files=["res://data/resources/map_data.R.translation", "res://data/resources/map_data.id.translation", "res://data/resources/map_data.name.translation", "res://data/resources/map_data.terrain.translation", "res://data/resources/map_data.owner.translation", "res://data/resources/map_data.claimant.translation", "res://data/resources/map_data.religion.translation", "res://data/resources/map_data.population.translation", "res://data/resources/map_data.development.translation", "res://data/resources/map_data.culture.translation"]
+
+[params]
+
+compress=true
+delimiter=0
